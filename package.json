@@ -1,6 +1,6 @@
 {
   "name": "interview-tool-angular",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
@@ -23,6 +23,7 @@
     "@angular/platform-browser-dynamic": "^4.4.6",
     "@angular/router": "^4.4.6",
     "core-js": "^2.5.4",
+    "npm": "^5.8.0",
     "rxjs": "^5.5.8",
     "zone.js": "^0.8.25"
   },
